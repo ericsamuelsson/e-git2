@@ -29,4 +29,3 @@ Node JS Web Starter application using IBM DataCache Service contains the followi
 *   package.json
 
 	This file is required by the Node.js environment. It specifies this Node.js project name, dependencies, and other configurations of your Node.js application
-sds

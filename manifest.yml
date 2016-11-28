@@ -1,6 +1,4 @@
 applications:
-- services:
-  - gitNode:DataCache
   disk_quota: 1024M
   host: gitNodeProd
   name: gitNode
@@ -8,4 +6,4 @@ applications:
   path: .
   domain: mybluemix.net
   instances: 1
-  memory: 512M
+  memory: 128M
